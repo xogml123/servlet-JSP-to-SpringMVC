@@ -1,4 +1,4 @@
-package servlet.servlet_jsp_practice;
+package hello.servlet;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
